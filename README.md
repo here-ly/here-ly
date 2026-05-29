@@ -9,14 +9,14 @@
 ## 🚀 关于我
 
 - 🎓 北京大学 本科生
-- 🌱 目前在学习：编程 / 深度学习 / 统计
-- 🔭 方向与兴趣：代数学、统计学、机器学习、模型工程、实用工具开发
+- 🌱 目前在学习：统计 / 程序设计 / 深度学习
+- 🔭 方向与兴趣：代数学、统计学、机器学习、模型工程、工具开发
 
 ---
 
 ## 📫 联系我
 
-- 邮箱：herely09@gmail.com
+- 邮箱：<herely09@gmail.com>
 - 个人博客：筹建中（soon）
 - 微信：私聊提供
 
@@ -25,13 +25,13 @@
 ---
 
 ## 📝 最新文章
-
+- 暂无
 <!-- BLOG-POST-LIST:START -->
 <!-- - [待添加] 搭建个人博客中... -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=here-ly&color=blue" alt="Profile Views" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=here-ly&color=blue" alt="Profile Views" /> -->
+<!-- </p> -->
